@@ -1,5 +1,5 @@
 //Strings
-/*
+
 let name = "Injal";
 console.log(name);
 console.log(name.length);
@@ -47,7 +47,7 @@ console.log(nam[4]);
 nam[0] = "A";   // This can never be done i.e. we cannot change the letter of string because strings are immutable
 
 console.log(nam);
-*/
+
 //Practice Questions
 
 //Problem-1 
